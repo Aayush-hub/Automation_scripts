@@ -37,7 +37,7 @@ if __name__ == "__main__":
         # Draw the rectangle for birds
         for i in range(250, 300):
             for j in range(410, 563):
-                data[i, j] = 171
+                data[i, j] = 150
 
         image.show()
         break
