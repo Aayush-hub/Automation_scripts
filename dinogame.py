@@ -3,6 +3,7 @@ from PIL import Image, ImageGrab         # pip install pillow
 import time
 
 def isCollide(data):
+    
     # Draw the rectangle for birds
     for i in range(250, 300):
         for j in range(250, 360):
