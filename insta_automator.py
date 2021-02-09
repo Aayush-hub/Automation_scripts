@@ -1,7 +1,7 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
-#from getpass import getpass
+from getpass import getpass
 import time
 chrome = webdriver.Chrome(ChromeDriverManager().install())
 chrome.get("https://instagram.com")
