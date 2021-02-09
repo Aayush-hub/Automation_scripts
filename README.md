@@ -15,6 +15,9 @@ This script automates logging in to Twitter. It can be further used to auto like
 ## 3. Dino Game Automater (No Internet Game)<img src="imgs/gif3.gif" width = "80" height = "50"/>
 This script automates the gameplay of dino game on chrome.
 
+## 4. Github Automater <img src="imgs/gif4.gif" width = "50" height = "30"/>
+This script automates logging in to Github. Can be used to automate dummy user test cases and can be used by developers who frequently log-in to Github.
+
 ## Quick Start
 
  <img align="right" src="https://media.giphy.com/media/1nR6fu93A17vWZbO9c/giphy.gif" width = "380" height = "280">
